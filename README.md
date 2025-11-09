@@ -172,8 +172,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Rahul Kumar Mishra**
 - GitHub: [@yourusername](https://github.com/rahul22106)
-- LinkedIn: [Your Name](www.linkedin.com/in/rahul-kumar-mishra-ba193a330)
-
 ## 🙏 Acknowledgments
 
 - Weather data provided by [https://www.weatherapi.com/]
