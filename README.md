@@ -2,7 +2,7 @@
 
 > A comprehensive real-time weather monitoring dashboard built with Microsoft Power BI
 
-![Weather Dashboard Preview](screenshot.png)
+![Weather Dashboard Preview](Screenshot.png)
 
 ## 📋 Table of Contents
 - [About](#about)
@@ -126,7 +126,7 @@ This dashboard is designed to connect to weather API such as:
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshot.png)
+![Main Dashboard](Screenshot.png)
 
 ### Air Quality Monitor
 *Color-coded AQI display with pollutant breakdown*
@@ -172,17 +172,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Rahul Kumar Mishra**
 - GitHub: [@yourusername](https://github.com/rahul22106)
-- LinkedIn: [Your Name](linkedin.com/in/rahul-kumar-mishra-ba193a330)
+- LinkedIn: [Your Name](www.linkedin.com/in/rahul-kumar-mishra-ba193a330)
 
 ## 🙏 Acknowledgments
 
 - Weather data provided by [https://www.weatherapi.com/]
 - Icons from [flaticon.com]
 - Inspired by modern weather applications
-
-## 📞 Support
-
-For support, email your.email@example.com or open an issue in the GitHub repository.
 
 ---
 
