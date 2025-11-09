@@ -1,4 +1,4 @@
-# 🌤️ Weather-Rorecast-Dashboard
+# 🌤️ Weather-Forecast-Dashboard
 
 > A comprehensive real-time weather monitoring dashboard built with Microsoft Power BI
 
@@ -23,7 +23,7 @@ This Power BI dashboard provides real-time weather monitoring and forecasting fo
 
 ### 🌡️ Real-Time Weather Monitoring
 - Current temperature and conditions for primary location
-- Multi-city weather comparison (Ajmer, Banaras, Chennai, Mumbai)
+- Multi-city weather comparison (Banaras, Chennai, Mumbai, etc)
 - Live updates for weather conditions
 
 ### 📊 Comprehensive Metrics
@@ -60,7 +60,7 @@ This Power BI dashboard provides real-time weather monitoring and forecasting fo
 
 2. **Open the Power BI file**
    - Launch Power BI Desktop
-   - Open `weather-dashboard.pbix`
+   - Open `weather forecasting.pbix`
 
 3. **Configure data sources**
    - Update data source credentials in Power BI
@@ -149,7 +149,7 @@ weather-dashboard/
 ├── weather-dashboard.pbix    # Main Power BI file
 ├── README.md                  # This file
 ├── LICENSE                    # License information
-├── screenshot.png             # Dashboard preview
+├── Screenshot.png             # Dashboard preview
 │
 
 ```
